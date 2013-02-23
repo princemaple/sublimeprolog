@@ -6,6 +6,7 @@ programming language Mercury. It is highly work in progress, so use with care.
 ### To Do ###
 * Build system
 * Syntax check & fix
+*
 
 ## Installation ##
 **Not yet**
